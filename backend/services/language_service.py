@@ -9,7 +9,7 @@ import threading
 from functools import partial
 
 # API configuration
-API_KEY = ""  # Set your DeepL API key here
+API_KEY = "86dd78dd-1b69-451c-a701-773312d7bfc8:fx"  # Set your DeepL API key here
 API_URL = "https://api-free.deepl.com/v2/translate"
 
 def translate_text(text, target_language):
